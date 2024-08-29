@@ -1,1 +1,2 @@
-gcr.io/cadvisor/cadvisor:v0.49.1
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-agent:latest
